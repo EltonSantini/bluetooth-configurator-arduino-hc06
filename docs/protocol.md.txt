@@ -1,0 +1,8 @@
+# HC-06 Configuration Protocol (Notes)
+
+This document describes how the Arduino sketch interacts with the HC-06 module
+using AT commands (generic, non-proprietary).
+
+- Enter AT mode
+- Query module name / baud / PIN
+- Set new parameters

@@ -1,0 +1,8 @@
+#ifndef HC06_COMMANDS_H
+#define HC06_COMMANDS_H
+
+// TODO: Add AT commands for HC-06
+// Example:
+// #define CMD_GET_NAME "AT+NAME?"
+
+#endif
