@@ -1,0 +1,6 @@
+Simple wiring diagram (text placeholder):
+
+[PC] --USB--> [Arduino Nano Every] --(D8/D9, 5V, GND)--> [HC-06]
+
+TX/RX pins may require a voltage divider on HC-06 RX depending on the module.
+Create a nicer diagram using draw.io or another tool and export as PNG later.
